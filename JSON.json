@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "Title": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+            "Author": "Walter Isaacson",
+            "Publisher": "Simon & Schuster",
+            "Date": "2021-03-09",
+            "Pages": 560
+        },
+        {
+            "Title": "Homo Deus A Brief History Of Tomorrow",
+            "Author": "Yuval Noah Harari",
+            "Publisher": "Harper",
+            "Date": "2017-02-21",
+            "Pages": 464
+        },
+        {
+            "Title": "First Light: Switching on Stars at the Dawn of Time",
+            "Author": "Emma Chapman",
+            "Publisher": "Bloomsbury Publishing Plc",
+            "Date": "2020-11-06",
+            "Pages": 304
+        }
+    ]
+}

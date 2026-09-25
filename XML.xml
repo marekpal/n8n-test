@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <books>
+     <book id="1" status="available">
+         <Title>The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race</Title>
+         <Author>Walter Isaacson</Author>
+         <Publisher>Simon &amp; Schuster</Publisher>
+         <Date>2021-03-09</Date>
+         <Pages>560</Pages>
+     </book>
+     <book id="2" status="sold-out">
+         <Title>Homo Deus A Brief History Of Tomorrow</Title>
+         <Author>Yuval Noah Harari</Author>
+         <Publisher>Harper</Publisher>
+         <Date>2017-02-21</Date>
+         <Pages>464</Pages>
+     </book>
+     <book id="3" status="available">
+         <Title>First Light: Switching on Stars at the Dawn of Time</Title>
+         <Author>Emma Chapman</Author>
+         <Publisher>Bloomsbury Publishing Plc</Publisher>
+         <Date>2020-11-06</Date>
+         <Pages>304</Pages>
+     </book>
+ </books>
